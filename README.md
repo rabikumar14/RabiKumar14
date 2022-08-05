@@ -1,6 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+</div>
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <!--
 **RabiKumar14/RabiKumar14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
