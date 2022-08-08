@@ -12,12 +12,20 @@
 -->
       </div>
       <img src="https://komarev.com/ghpvc/?username=RabiKumar14&style=flat-square&color=blue" alt=""/>
+<h1>
+
+<div align="center">
+Welcome to my Github. <br><br>
+<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"/>
+</h1>
+
+### :man_technologist: About Me :
+
+I am a Full Stack Developer from India.
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/BLG7sWHD0RHFK/giphy.gif" width="600" height="300"/>
 </div>
-
-
-
-
-
 <!--
 **RabiKumar14/RabiKumar14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
