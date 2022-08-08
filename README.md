@@ -15,13 +15,13 @@
 <h1>
 
 <div align="center">
-Welcome to my Github. <br><br>
+Welcome to Rabi's Github. <br>
 <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"/>
 </h1>
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from India.
+I am a Systems Engineer from Singapore.
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/BLG7sWHD0RHFK/giphy.gif" width="600" height="300"/>
