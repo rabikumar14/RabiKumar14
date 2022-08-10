@@ -1,23 +1,22 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
-  <div id="badges">
-    <br>
-  <a href="https://www.linkedin.com/in/rabi-kumar-10bab6203">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-    <!--
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Portfolio-grey?logo=Serverless&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
--->
-      </div>
-      <img src="https://komarev.com/ghpvc/?username=RabiKumar14&style=flat-square&color=blue" alt=""/>
-<h1>
-
 <div align="center">
-Welcome to Rabi's Github. <br>
-<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"/>
-</h1>
+    <h1>
+        Welcome to Rabi's Github.
+    </h1>
+    <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="250px"/>
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/rabi-kumar-10bab6203">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+        </a>
+        <!--
+            <a href="your-youtube-URL">
+                <img src="https://img.shields.io/badge/Portfolio-grey?logo=Serverless&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+            </a>
+        -->
+        </div>
+    <img src="https://komarev.com/ghpvc/?username=RabiKumar14&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 
 ### :man_technologist: About Me :
 
